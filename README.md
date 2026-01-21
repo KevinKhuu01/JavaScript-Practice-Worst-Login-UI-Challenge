@@ -17,4 +17,6 @@ All correct answers are commented at the bottom of script.js
 See the old static version here:
 https://worst-login-ui-ever.netlify.app/
 
-Server.js and Scoreboard.js were written using the assistance of AI
+Server.js and Scoreboard.js were written using the assistance of AI. 
+
+Screen adaptability / website responsiveness has not been added in for this project.
