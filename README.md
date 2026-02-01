@@ -6,31 +6,31 @@ Most front ends are designed to be easy and user friendly. This is the opposite.
 https://worst-login-ui-ever.netlify.app/
 
 <br>
-🧪 Run Locally:
-1. Clone the repo.
-2. Install dependencies: "npm install"
-3. Start the server: "node Host/server.js"
+🧪 Run Locally:<br>
+1. Clone the repo.<br>
+2. Install dependencies: "npm install"<br>
+3. Start the server: "node Host/server.js"<br>
 4. Go to http://localhost:3000 in your web browser.
 
 <br>
-🛠️ Stack
+🛠️ Stack<br>
 
-JavaScript – Core interactive functionality
+JavaScript – Core interactive functionality<br>
 
-HTML & CSS – Structure and base styling
+HTML & CSS – Structure and base styling<br>
 
 Node.js – Simple backend to serve and run the project locally
 
 <br>
-🧠 Concepts
-1. Webpage design with HTML and CSS.
-2. DOM manipulation and event handling with JavaScript.
-3. Building an interactive form with intentional nonstandard UX.
+🧠 Concepts<br>
+1. Webpage design with HTML and CSS.<br>
+2. DOM manipulation and event handling with JavaScript.<br>
+3. Building an interactive form with intentional nonstandard UX.<br>
 4. Basic Node.js server execution.
 
 <br>
-📝 Notes
-- All correct answers are commented at the bottom of script.js
-- Server.js and Scoreboard.js were written with the assistance of AI.
-- Screen adaptability / website responsiveness has not been added for this project.
+📝 Notes<br>
+- All correct answers are commented at the bottom of script.js<br>
+- Server.js and Scoreboard.js were written with the assistance of AI.<br>
+- Screen adaptability / website responsiveness has not been added for this project.<br>
 - This project was designed for desktop usage only.
