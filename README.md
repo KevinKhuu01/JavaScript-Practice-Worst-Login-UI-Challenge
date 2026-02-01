@@ -1,4 +1,4 @@
-<h1>The most frustrating login UI ever!<h1\>
+<h1>The Most Frustrating Login UI Ever!</h1>
 
 Most front ends are designed to be easy and user friendly. This is the opposite. This game was designed to be both a practice project for Javascript and the most annoying login expereince possible. 
 
