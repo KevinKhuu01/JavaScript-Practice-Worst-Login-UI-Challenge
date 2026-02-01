@@ -1,4 +1,5 @@
 Welcome to the most frustrating login UI ever! 
+
 Most front-end ends are designed to be easy and user friendly. This is the opposite. This game was designed to be both a practice project for Javascript and the most annoying login expereince possible. 
 
 🚀 Live Demo - You can explore the static version of the interface here:
