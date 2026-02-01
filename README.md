@@ -12,6 +12,7 @@ https://worst-login-ui-ever.netlify.app/
 4. Go to http://localhost:3000 in your web browser.
 
 🛠️ Stack
+
 JavaScript – Core interactive functionality
 
 HTML & CSS – Structure and base styling
