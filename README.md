@@ -10,7 +10,7 @@ https://worst-login-ui-ever.netlify.app/
 1. Clone the repo.<br>
 2. Install dependencies: "npm install"<br>
 3. Start the server: "node Host/server.js"<br>
-4. Go to http://localhost:3000 in your web browser.
+4. Go to http://localhost:3000 in your web browser.<br>
 
 <br>
 🛠️ Stack<br>
