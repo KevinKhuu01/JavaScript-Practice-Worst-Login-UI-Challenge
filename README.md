@@ -12,7 +12,7 @@ https://worst-login-ui-ever.netlify.app/
 3. Start the server: "node Host/server.js"<br>
 4. Go to http://localhost:3000 in your web browser.
 
-<br>
+<br><br>
 🛠️ Stack<br>
 
 JavaScript – Core interactive functionality<br>
@@ -21,14 +21,14 @@ HTML & CSS – Structure and base styling<br>
 
 Node.js – Simple backend to serve and run the project locally
 
-<br>
+<br><br>
 🧠 Concepts<br>
 1. Webpage design with HTML and CSS.<br>
 2. DOM manipulation and event handling with JavaScript.<br>
 3. Building an interactive form with intentional nonstandard UX.<br>
 4. Basic Node.js server execution.
 
-<br>
+<br><br>
 📝 Notes<br>
 - All correct answers are commented at the bottom of script.js<br>
 - Server.js and Scoreboard.js were written with the assistance of AI.<br>
