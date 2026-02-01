@@ -13,7 +13,9 @@ https://worst-login-ui-ever.netlify.app/
 
 🛠️ Stack
 JavaScript – Core interactive functionality
+
 HTML & CSS – Structure and base styling
+
 Node.js – Simple backend to serve and run the project locally
 
 🧠 Concepts
